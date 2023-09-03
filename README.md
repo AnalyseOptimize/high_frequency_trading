@@ -13,4 +13,4 @@ This project was created as a result of entrance tests in Center of Mathematical
 | inventory enhanced (1) | **824.42**   | **799.09** |
 | inventory enhanced (2)| **421.92**   | **798.75** |
 
-More details, including descriptions of algorithms you can find in the notebook. The .pdf contains a short review of the suggested articles.
+More details, including descriptions of algorithms you can find in the notebook. The .pdf contains a short review of the suggested articles. The data is available [here](https://drive.google.com/drive/folders/1nWvJAfUMclZpvzQ2xyfozDk8efn85RWT).
