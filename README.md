@@ -22,7 +22,7 @@ Datasets are the following (you fing them [here](https://drive.google.com/drive/
 - bid-ask spread
 - normalized bid-ask spread
 
-
+In `Feature extraction and classification.ipybn` you can find detailed results and code of implementation. 
 
 # Implementing strategy
 
