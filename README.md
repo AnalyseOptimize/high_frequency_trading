@@ -3,7 +3,7 @@ This part of the project was inspired mainly by 2 articles:[Ntakaris A., Mirone 
 
 The task was to predict price change direction using feature engineering and simple classification models. The final score is quite impressive - 0.99 accuracy and 0.99 ROC-AUC on test data.
 
-Datasets are the following (you fing them [here]([url](https://drive.google.com/drive/u/0/folders/1tGBEx9CEVStMKTiSkvh0Q6n5ZiLGXalf)):
+Datasets are the following (you fing them [here](https://drive.google.com/drive/u/0/folders/1tGBEx9CEVStMKTiSkvh0Q6n5ZiLGXalf):
 - `book.csv` - limit order book for perpetual bitcoin futures
 - `book.spot.csv` - the same for spot bitcoin contracts
 - `ticker.csv` - best prices and amounts on perp futures, have more frequent period than books
